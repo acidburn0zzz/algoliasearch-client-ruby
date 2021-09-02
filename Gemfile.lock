@@ -58,8 +58,7 @@ GEM
       json
       websocket (~> 1.0)
     rake (10.4.2)
-    rdoc (4.2.2)
-      json (~> 1.4)
+    rdoc (6.3.1)
     redgreen (1.2.2)
     rspec (3.2.0)
       rspec-core (~> 3.2.0)
